@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/searchitem"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Cari" />
+    <item
+        android:id="@+id/favorititem"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="Favorit" />
+    <item
+        android:id="@+id/homeitem"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Kos Saya" />
+    <item
+        android:id="@+id/chatitem"
+        android:icon="@drawable/ic_baseline_chat_24"
+        android:title="Chat" />
+    <item
+        android:id="@+id/accountitem"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profil" />
+</menu>

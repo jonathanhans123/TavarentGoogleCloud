@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.midtrans:issuetracker:1.12.0-SANDBOX@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/baf3de1710c642f55d9d8918c2226734/transformed/jetified-issuetracker-1.12.0-SANDBOX/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/baf3de1710c642f55d9d8918c2226734/transformed/jetified-issuetracker-1.12.0-SANDBOX/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/baf3de1710c642f55d9d8918c2226734/transformed/jetified-issuetracker-1.12.0-SANDBOX/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

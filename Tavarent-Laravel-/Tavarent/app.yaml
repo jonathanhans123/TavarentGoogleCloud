@@ -1,0 +1,27 @@
+runtime: php
+env: flex
+
+runtime_config:
+  document_root: public
+
+skip_files:
+  .env
+
+env_variables:
+  APP_LOG: errorlog
+  APP_KEY: base64:OyR4/WkzmkQVJtEatV3ZJfFsrrswdkJ0BGliV6T6z0Y=
+  STORAGE_DIR: /tmp
+
+  DB_CONNECTION: mysql
+  DB_HOST: 127.0.0.1
+  DB_PORT: 3306
+  DB_DATABASE: db_tavarent
+  DB_USERNAME: root
+  DB_PASSWORD:
+  DB_SOCKET: /cloudsql/modern-diode-404706:asia-southeast2:tavarentdatabase
+
+
+beta_settings:
+   # for Cloud SQL, set this value to the Cloud SQL connection name,
+   # e.g. "project:region:cloudsql-instance"
+   cloud_sql_instances: modern-diode-404706:asia-southeast2:tavarentdatabase

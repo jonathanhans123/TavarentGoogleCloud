@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.data2viz.d2v:scale-jvm:0.8.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.data2viz.d2v/scale-jvm/0.8.12/71c899b9e0ac26342926ea770ef250e47bfb9c36/scale-jvm-0.8.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.data2viz.d2v/scale-jvm/0.8.12/2c69f28e07b67e70feba71bcb644924e7040a2bc/scale-jvm-0.8.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

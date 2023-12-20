@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.data2viz.d2v:shape-jvm:0.8.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.data2viz.d2v/shape-jvm/0.8.12/ddcebf1d89663f01913289bdc01c2991014702a3/shape-jvm-0.8.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.data2viz.d2v/shape-jvm/0.8.12/fd01e4caac4137b521b215d7dbc4a2ea91d8f73c/shape-jvm-0.8.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

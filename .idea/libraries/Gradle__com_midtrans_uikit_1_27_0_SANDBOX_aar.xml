@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.midtrans:uikit:1.27.0-SANDBOX@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9e656b89aad9110b1e364ccd64f7f7c3/transformed/jetified-uikit-1.27.0-SANDBOX/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9e656b89aad9110b1e364ccd64f7f7c3/transformed/jetified-uikit-1.27.0-SANDBOX/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9e656b89aad9110b1e364ccd64f7f7c3/transformed/jetified-uikit-1.27.0-SANDBOX/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9e656b89aad9110b1e364ccd64f7f7c3/transformed/jetified-uikit-1.27.0-SANDBOX/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

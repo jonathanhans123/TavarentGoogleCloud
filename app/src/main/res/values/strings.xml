@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TAVERENT</string>
+    <!--    <string name="WS_HOST">http://10.0.2.2:8000/api</string>-->
+    <string name="WS_HOST">https://Tavarent.000webhostapp.com/api</string>
+    <string name="title1">Search Anywhere in Surabaya</string>
+    <string name="title2">Quick and Easy</string>
+    <string name="title3">Affordable Prices</string>
+    <string name="desc1">Tavarent is here for everyone</string>
+    <string name="desc2">We are here providing nearest Dormitory/Apartment in your area</string>
+    <string name="desc3">Lets Get Started</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="gender">
+        <item>Campur</item>
+        <item>Putra</item>
+        <item>Putri</item>
+    </string-array>
+    <string name="belumpesan">Yuk, sewa di Tavarent untuk mengaktifkan halaman ini! Coba mengekos modern dengan manfaat berikut ini.</string>
+</resources>

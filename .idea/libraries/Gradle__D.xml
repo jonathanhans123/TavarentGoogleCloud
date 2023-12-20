@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b62fc323e66f561ca308f1c2a1326c27/transformed/jetified-heresdk-lite-android-4.12.11.0.10356/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b62fc323e66f561ca308f1c2a1326c27/transformed/jetified-heresdk-lite-android-4.12.11.0.10356/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b62fc323e66f561ca308f1c2a1326c27/transformed/jetified-heresdk-lite-android-4.12.11.0.10356/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

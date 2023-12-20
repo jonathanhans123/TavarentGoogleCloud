@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.data2viz.d2v:format-jvm:0.8.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.data2viz.d2v/format-jvm/0.8.12/5cf174318bd7e94fc04234efa812828a741feb4b/format-jvm-0.8.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.data2viz.d2v/format-jvm/0.8.12/8d2e7c4ce1ea650c01f0b8b02a189460c661482f/format-jvm-0.8.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

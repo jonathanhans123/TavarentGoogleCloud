@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.data2viz.d2v:time-format-jvm:0.8.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.data2viz.d2v/time-format-jvm/0.8.12/f5ea78aa609d9c3f207eaf97179571bb11416326/time-format-jvm-0.8.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.data2viz.d2v/time-format-jvm/0.8.12/5a9b79fb4bded3aa2081b601882bad3a79d82cae/time-format-jvm-0.8.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

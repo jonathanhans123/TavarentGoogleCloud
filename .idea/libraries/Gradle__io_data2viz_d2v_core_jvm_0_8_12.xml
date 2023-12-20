@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.data2viz.d2v:core-jvm:0.8.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.data2viz.d2v/core-jvm/0.8.12/d9f485c74013bbc5da1731a7244b4e61fdf2432e/core-jvm-0.8.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.data2viz.d2v/core-jvm/0.8.12/2aa91bf43235f6e7ca13fc6a05b8834a3a31137c/core-jvm-0.8.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
