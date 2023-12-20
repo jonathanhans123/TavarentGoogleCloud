@@ -3,6 +3,10 @@ env: flex
 
 runtime_config:
   document_root: public
+  enable_extensions:
+        - curl
+        - dom
+        - xml
 
 skip_files:
   .env
