@@ -1,4 +1,4 @@
-runtime: php82
+runtime: php820
 env: flex
 
 runtime_config:
